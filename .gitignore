@@ -27,3 +27,11 @@ HELP.md
 
 ### VS Code ###
 .vscode/
+gradle/
+.mvn
+gradle/
+gradlew
+gradlew.bat
+mvnw
+mvnw.cmd
+settings.gradle
